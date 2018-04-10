@@ -1,4 +1,4 @@
-var staticModule = require('@arve.knudsen/static-module');
+var staticModule = require('static-module');
 var quote = require('quote-stream');
 var through = require('through2');
 var fs = require('fs');
